@@ -14,7 +14,7 @@
 13,apology,คำขอโทษ
 14,definition,คำนิยาม
 15,inattentive,ไม่ใส่ใจ
-16,educational,การศึกษา
+16,eudcational,การศึกษา
 17,adventure,การผจญภัย
 18,yummy,อร่อย
 19,appetizer,อาหารเรียกน้ำย่อย
@@ -42,7 +42,7 @@
 41,against,ขัดต่อ
 42,old-fashioned,แบบเก่า
 43,run away,หนีไป
-44,the older the better,ยิ่งเก่า ยิ่งดี
+44,"the older, the better",ยิ่งเก่า ยิ่งดี
 45,true love knows no age,รักแท้ไม่จำกัดอายุ
 46,one picture is worth 1000 words,ภาพหนึ่งภาพมีค่ามากกว่าคำพูดนับพันคำ
 47,no one knows the future,ไม่มีใครรู้เรื่องอนาคต
@@ -54,7 +54,7 @@
 53,confidence,ความมั่นใจ
 54,facial,ใบหน้า
 55,expression,การแสดงออก
-56,jitter,ความกระวนกระวาย
+56,jitter,การรดน้ำ
 57,initiate,เริ่มต้น
 58,conversation,การสนทนา
 59,knowledge,ความรู้
@@ -63,7 +63,7 @@
 62,importance,ความสำคัญ
 63,posture,ท่าทาง
 64,eye contact,การสบตา
-65,mannerism,ท่าทางประจำตัว
+65,mannerism,มารยาท
 66,personal space,พื้นที่ส่วนตัว
 67,gesture,ท่าทาง
 68,improve,ทำให้ดีขึ้น
@@ -98,3 +98,427 @@
 97,awareness,การรับรู้
 98,academic,เชิงวิชาการ
 99,ads,โฆษณา
+100,review,ทบทวน
+101,reduce,ลด
+102,nervousness,ความวิตกกังวล
+103,element,องค์ประกอบ
+104,effective,มีประสิทธิภาพ
+105,speech,คำพูด
+106,available,มีอยู่
+107,specifically,โดยเฉพาะอย่างยิ่ง
+108,job placement,การจัดหางาน
+109,accommodation,ที่พัก
+110,income,รายได้
+111,suport,สนับสนุน
+112,network,เครือข่าย
+113,sort,เรียงลำดับ
+114,earn,ได้รับ
+115,broke,แตกหัก
+116,culture,วัฒนธรรม
+117,guarantee,รับประกัน
+118,local,ท้องถิ่น
+119,expect,คาดหวัง
+120,minimum,ขั้นต่ำ
+121,maximum,สูงสุด
+122,board,กระดาน
+123,babysitting,การดูแลเด็ก
+124,outing,ออกไปข้างนอก
+125,duty,หน้าที่
+126,simple,เรียบง่าย
+127,mandatory,บังคับ
+128,caretaker,ผู้ดูแล
+129,staff,พนักงาน
+130,planner,นักวางแผน
+131,wage,ค่าจ้าง
+132,contact,ติดต่อ
+133,requirement,ความต้องการ
+134,fee,ค่าธรรมเนียม
+135,expense,ค่าใช้จ่าย
+136,include,รวม
+137,predecessor,ผู้มาก่อน
+138,ultimate,สุดยอด
+139,huge,ใหญ่
+140,display,แสดง
+141,operating system,ระบบปฏิบัติการ
+142,integrate,บูรณาการ
+143,optional,ไม่จำเป็น
+144,As a result,ด้วยเหตุนี้
+145,excellent,ยอดเยี่ยม
+146,device,อุปกรณ์
+147,edit,แก้ไข
+148,document,เอกสาร
+149,productivity,ผลผลิต
+150,resolution,ปณิธาน
+151,slick,ลื่น
+152,replacement,ทดแทน
+153,impress,ประทับใจ
+154,performance,ผลงาน
+155,multitask,ทำงานหลายอย่างพร้อมกัน
+156,feature,คุณสมบัติ
+157,ensure,ทำให้มั่นใจ
+158,smooth,เรียบ
+159,although,แม้ว่า
+160,perform,ดำเนินการ
+161,powerful,ทรงพลัง
+162,However,อย่างไรก็ตาม
+163,unmatch,ไม่ตรงกัน
+164,compre,ซื้อ
+165,purpose,วัตถุประสงค์
+166,a couple of,สองสาม
+167,describe,อธิบาย
+168,drawback,ข้อเสีย
+169,explain,อธิบาย
+170,which of the following,ข้อใดต่อไปนี้
+171,type,พิมพ์
+172,model,แบบอย่าง
+173,tablet,แท็บเล็ต
+174,tone,โทนเสียง
+175,sarcastic,ประชดประชัน
+176,persuasive,โน้มน้าวใจ
+177,concern,กังวล
+178,humorous,อารมณ์ขัน
+179,benefit,ผลประโยชน์
+180,except,ยกเว้น
+181,versatility,ความอเนกประสงค์
+182,capacity,ความจุ
+183,state,สถานะ
+184,stand out,โดดเด่น
+185,quality,คุณภาพ
+186,quantity,ปริมาณ
+187,competition,การแข่งขัน
+188,category,หมวดหมู่
+189,relatively,เมื่อเทียบกับ
+190,report,รายงาน
+191,reputation,ชื่อเสียง
+192,decade,ทศวรรษ
+193,tend to,มีแนวโน้มที่จะ
+194,develop,พัฒนา
+195,cancer,มะเร็ง
+196,exposure,การรับสัมผัสเชื้อ
+197,expose,เปิดเผย
+198,severe,รุนแรง
+199,sunburn,ผิวไหม้แดด
+200,heatstroke,โรคลมแดด
+201,harmful,เป็นอันตราย
+202,source,แหล่งที่มา
+203,immune,มีภูมิคุ้มกัน
+204,natural,เป็นธรรมชาติ
+205,barrier,สิ่งกีดขวาง
+206,illness,การเจ็บป่วย
+207,strengthen,เสริมสร้าง
+208,publish,เผยแพร่
+209,research,วิจัย
+210,suggest,แนะนำ
+211,prevent,ป้องกัน
+212,aside from,นอกเหนือจาก
+213,diabetes,โรคเบาหวาน
+214,asthma,โรคหอบหืด
+215,certain,แน่ใจ
+216,fortify,เสริมความแข็งแกร่ง
+217,intake,การรับเข้า
+218,daily,รายวัน
+219,obtain,รับ
+220,passage,ทางเดิน
+221,consist of,ประกอบด้วย
+222,statement,คำแถลง
+223,advantage,ข้อได้เปรียบ
+224,disadvantage,ข้อเสีย
+225,consider,พิจารณา
+226,prolong,ยืด
+227,disease,โรค
+228,enhance,ยกระดับ
+229,weaken,อ่อนแอลง
+230,organ,อวัยวะ
+231,alteration,การเปลี่ยนแปลง
+232,reduction,การลดน้อยลง
+233,digestion,การย่อยอาหาร
+234,comsumption,การบริโภค
+235,provide,จัดเตรียม
+236,medicine,ยา
+237,climate,ภูมิอากาศ
+238,avoid,หลีกเลี่ยง
+239,detail,รายละเอียด
+240,bio,เคยเป็น
+241,inorganic,อนินทรีย์
+242,organic,อินทรีย์
+243,component,ส่วนประกอบ
+244,anthro-,มนุษย์-
+245,outcome,ผลลัพธ์
+246,cardiovascular,ระบบหัวใจและหลอดเลือด
+247,respiratory,ระบบทางเดินหายใจ
+248,liver,ตับ
+249,kidney,ไต
+250,neuro-,นิวโร-
+251,affect,ส่งผลกระทบ
+252,mortality,อัตราการตาย
+253,immortal,อมตะ
+254,classify,จัดประเภท
+255,classification,การจำแนกประเภท
+256,pollution,มลพิษ
+257,cause and effect,เหตุและผล
+258,chemical,เคมี
+259,concentration,ความเข้มข้น
+260,atmosphere,บรรยากาศ
+261,obesity,โรคอ้วน
+262,clinical,ทางคลินิก
+263,infant,ทารก
+264,disorder,ความผิดปกติ
+265,brain,สมอง
+266,relate,เกี่ยวข้อง
+267,engagement,การว่าจ้าง
+268,average,เฉลี่ย
+269,user,ผู้ใช้
+270,yearly,ทุกปี
+271,platform,แพลตฟอร์ม
+272,social platform,แพลตฟอร์มโซเชียล
+273,distribute,แจกจ่าย
+274,distribution,การกระจาย
+275,worldwide,ทั่วโลก
+276,peak,จุดสูงสุด
+277,slight,เล็กน้อย
+278,fluctuation,ความผันผวน
+279,fluctuate,ผันผวน
+280,remain,ยังคง
+281,stable,มั่นคง
+282,rise,ลุกขึ้น
+283,significant,สำคัญ
+284,substantial,สำคัญ
+285,tremendous,มหาศาล
+286,possess,มี
+287,in order to,เพื่อ
+288,excel,เอ็กซ
+289,necessary,จำเป็น
+290,simplify,ทำให้ง่ายขึ้น
+291,success,ความสำเร็จ
+292,successful,ประสบความสำเร็จ
+293,succeed,ประสบความสำเร็จ
+294,professionally,มืออาชีพ
+295,regardless of,โดยไม่คำนึงถึง
+296,field of work,สาขาอาชีพ
+297,bond,พันธบัตร
+298,forge,ปลอม
+299,role,บทบาท
+300,community,ชุมชน
+301,practice,ฝึกฝน
+302,problem-solving,การแก้ปัญหา
+303,challenge,ท้าทาย
+304,throughout,ตลอดทั้ง
+305,personal,ส่วนตัว
+306,adjust,ปรับ
+307,obstacle,อุปสรรค
+308,circumstance,สถานการณ์
+309,generate,สร้าง
+310,solution,สารละลาย
+311,aspect,ด้าน
+312,prioritize,จัดลำดับความสำคัญ
+313,responsibility,ความรับผิดชอบ
+314,divide,แบ่ง
+315,-able,-สามารถ
+316,balance,สมดุล
+317,minimize,ลดให้น้อยที่สุด
+318,last-minute,นาทีสุดท้าย
+319,rush,รีบ
+320,stress,ความเครียด
+321,be likely to,มีแนวโน้มที่จะ
+322,advance,ก้าวหน้า
+323,handy,สะดวก
+324,era,ยุค
+325,pervasive,แพร่หลาย
+326,hire,จ้าง
+327,competency,ความสามารถ
+328,innovation,นวัตกรรม
+329,promote,ส่งเสริม
+330,be equipped with,มีอุปกรณ์ครบครัน
+331,industry,อุตสาหกรรม
+332,employment,การจ้างงาน
+333,in addtion,นอกจากนี้
+334,advice,คำแนะนำ
+335,direction,ทิศทาง
+336,foundation,พื้นฐาน
+337,boost,เพิ่ม
+338,conclude,สรุป
+339,while,ในขณะที่
+340,whereas,ในทางตรงกันข้าม
+341,journey,การเดินทาง
+342,competitive,การแข่งขัน
+343,guideline,แนวทางปฏิบัติ
+344,involve,มีส่วนร่วม
+345,pleasure,ความพึงพอใจ
+346,suffer,ทุกข์ทรมาน
+347,predict,ทำนาย
+348,-ability,-ความสามารถ
+349,clarification,คำชี้แจง
+350,criticism,การวิจารณ์
+351,transaction,ธุรกรรม
+352,literacy,การรู้หนังสือ
+353,difficulty,ความยากลำบาก
+354,even though,ถึงแม้ว่า
+355,quite,ค่อนข้าง
+356,graduate,เรียนจบ
+357,opportunity,โอกาส
+358,famous,มีชื่อเสียง
+359,impressive,ประทับใจ
+360,especially,โดยเฉพาะ
+361,estimate,ประมาณการ
+362,household,ครัวเรือน
+363,at least,อย่างน้อย
+364,association,สมาคม
+365,translate,แปล
+366,essential,จำเป็น
+367,influence,อิทธิพล
+368,society,สังคม
+369,multiple,หลายรายการ
+370,several,หลาย
+371,cognitive,ความรู้ความเข้าใจ
+372,attention,ความสนใจ
+373,flexibility,ความยืดหยุ่น
+374,interference,การรบกวน
+375,likewise,เช่นเดียวกัน
+376,demonstrate,สาธิต
+377,strategic,เชิงกลยุทธ์
+378,decision-making,การตัดสินใจ
+379,decide,ตัดสินใจ
+380,efficient,มีประสิทธิภาพ
+381,mood,อารมณ์
+382,emotion,อารมณ์
+383,puzzle,ปริศนา
+384,relaxation,การผ่อนคลาย
+385,ward off,ปัด
+386,anxiety,ความวิตกกังวล
+387,depression,ภาวะซึมเศร้า
+388,nostalgia,ความคิดถึง
+389,potential,ศักยภาพ
+390,highlight,ไฮไลท์
+391,conduct,จัดการ
+392,mental,จิต
+393,physical,ทางกายภาพ
+394,generally,โดยทั่วไป
+395,sedentary,อยู่กับที่
+396,behavior,พฤติกรรม
+397,factor,ปัจจัย
+398,chronic,เรื้อรัง
+399,metabolic,เมตาบอลิก
+400,metabolism,การเผาผลาญ
+401,coronary artery,หลอดเลือดหัวใจ
+402,musculoskeletal,ระบบกล้ามเนื้อและกระดูก
+403,skeleton,โครงกระดูก
+404,mucous,เมือก
+405,excessive,มากเกินไป
+406,addiction,การเสพติด
+407,withdraw,ถอน
+408,pull away,ดึงออกไป
+409,additionally,นอกจากนี้
+410,diminish,ลดลง
+411,interest,ความสนใจ
+412,amazing,อัศจรรย์
+413,hobby,งานอดิเรก
+414,well-being,ความเป็นอยู่ที่ดี
+415,overall,โดยรวม
+416,moderation,ความพอดี
+417,overindulgence,การตามใจมากเกินไป
+418,indulge,ตามใจ
+419,overwhelm,ประเด
+420,pose,โพส
+421,impose,กำหนด
+422,risk,เสี่ยง
+423,ironically,อย่างน่าขัน
+424,isolation,การแยกตัว
+425,virtual,เสมือน
+426,overtake,แซง
+427,thumb,นิ้วโป้ง
+428,wrist,ข้อมือ
+429,elvow,เอลโวว์
+430,waistline,รอบเอว
+431,stretch,ยืด
+432,injury,บาดเจ็บ
+433,injure,บาดเจ็บ
+434,address,ที่อยู่
+435,early,แต่แรก
+436,in short,โดยสรุป
+437,plenty,มากมาย
+438,abundant,มากมาย
+439,rather than,แทนที่จะ
+440,nutrition,โภชนาการ
+441,consumer,ผู้บริโภค
+442,statistic,สถิติ
+443,data,ข้อมูล
+444,persuade,โน้มน้าว
+445,treatment,การรักษา
+446,gamble,การพนัน
+447,symptom,อาการ
+448,autism,ออทิสติก
+449,condition,เงื่อนไข
+450,tense,ตึงเครียด
+451,inactive,ไม่ใช้งาน
+452,uncomfortable,อึดอัด
+453,comparison-contrast,การเปรียบเทียบ-ความแตกต่าง
+454,ability,ความสามารถ
+455,attraction,สถานที่ท่องเที่ยว
+456,persuasion,การโน้มน้าวใจ
+457,vital,สำคัญยิ่ง
+458,relation,ความสัมพันธ์
+459,economic,ทางเศรษฐกิจ
+460,diplomatic,การทูต
+461,means,วิธี
+462,global,ทั่วโลก
+463,perception,การรับรู้
+464,tradition,ธรรมเนียม
+465,hard power,อำนาจที่แข็งแกร่ง
+466,soft power,อำนาจแบบอ่อน
+467,value,ค่า
+468,appeal,อุทธรณ์
+469,lasting,ยั่งยืน
+470,recognize,จำได้
+471,achieve,บรรลุ
+472,policy,นโยบาย
+473,goal,เป้าหมาย
+474,heritage,มรดก
+475,democracy,ประชาธิปไตย
+476,human rights,สิทธิมนุษยชน
+477,example,ตัวอย่าง
+478,include,รวม
+479,export,ส่งออก
+480,import,นำเข้า
+481,literature,วรรณกรรม
+482,as well as,รวมถึง
+483,exchange,แลกเปลี่ยน
+484,foster,อุปถัมภ์
+485,connection,การเชื่อมต่อ
+486,unlike,ต่างจาก
+487,contrary,ตรงกันข้าม
+488,dissimilar,แตกต่างกัน
+489,nation,ประเทศ
+490,typically,โดยทั่วไป
+491,motivation,แรงจูงใจ
+492,stimulate,กระตุ้น
+493,release,ปล่อย
+494,adremaline,อะดรีมาลีน
+495,cortisol,คอร์ติซอล
+496,moreover,นอกจากนี้
+497,function,การทำงาน
+498,-ness,-ความเป็น
+499,lead to,นำไปสู่
+500,utilize,ใช้
+501,experience,ประสบการณ์
+502,maintain,บำรุงรักษา
+503,base on,โดยอิงจาก
+504,contribute to,มีส่วนร่วมกับ
+505,stem from,สืบเชื้อสายมาจาก
+506,parental,ผู้ปกครอง
+507,pressure,ความดัน
+508,acknowledge,รับทราบ
+509,entry ,รายการ 
+510,dominate,ครอบงำ
+511,advocate,สนับสนุน
+512,radical,หัวรุนแรง
+513,reform,ปฏิรูป
+514,defend,ปกป้อง
+515,fairness,ความยุติธรรม
+516,measure,วัด
+517,breadth,ความกว้าง
+518,debate,อภิปราย
+519,despite,ถึงอย่างไรก็ตาม
+520,in spite of,แม้ว่า
+521,by the same token,ในทำนองเดียวกัน
+522,fail,ล้มเหลว
+523,tailor,ช่างตัดเสื้อ
