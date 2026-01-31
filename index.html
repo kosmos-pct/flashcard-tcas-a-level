@@ -327,7 +327,7 @@
 
         async function autoLoadCSV() {
             try {
-                const response = await fetch('vocabulary.csv?v=' + Date.now());
+                const response = await fetch('vocabulary.csv');
                 if (!response.ok) {
                     throw new Error('Could not fetch vocabulary.csv');
                 }
