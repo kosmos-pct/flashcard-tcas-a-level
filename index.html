@@ -322,7 +322,17 @@
             
             return result;
         }
-
+// Auto-load CSV on page load
+   async function autoLoadCSV() {
+       try {
+           const response = await fetch('vocabulary.csv');
+           const csvText = await response.text();
+           loadVocabularyFromCSV(csvText);
+       } catch (error) {
+           console.error('Could not auto-load CSV:', error);
+           // Keep the upload section visible if auto-load fails
+       }
+   }
         function handleFileSelect(event) {
             const file = event.target.files[0];
             if (!file) return;
@@ -401,7 +411,8 @@
             currentIndex = 0;
             updateCard();
         }
-
+// Auto-load CSV when page loads
+   window.addEventListener('load', autoLoadCSV);
         document.addEventListener('keydown', function(event) {
             if (document.getElementById('flashcard-area').classList.contains('hidden')) return;
             
